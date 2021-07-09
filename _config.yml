@@ -4,7 +4,7 @@ date: 2021-07-09
 ---
 
 
-title: my awesome title woo \o/
+title: my awesome title woo "\o/"
 author: me :)
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
